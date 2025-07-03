@@ -1,0 +1,10 @@
+<thead>
+    <tr>
+        <th>#</th>
+        <th>Nome</th>
+        <th>Cpf</th>
+        <th>E-mail</th>
+        <th>Telefone</th>
+        <th>Endereço</th>
+    </tr>
+</thead>

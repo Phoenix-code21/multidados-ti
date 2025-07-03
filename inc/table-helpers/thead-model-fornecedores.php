@@ -1,0 +1,9 @@
+<thead>
+    <tr>
+        <th>#</th>
+        <th>Nome</th>
+        <th>Cpf</th>
+        <th>E-mail</th>
+        <th>Cidade</th>
+    </tr>
+</thead>
